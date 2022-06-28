@@ -1,0 +1,13 @@
+https://www.javatpoint.com/python-mysql-creating-tables
+list me []
+tuple me () dono same hota hai, ye imutable hota hai
+dictionary me {}
+set me {}
+__init__(self,) is constructor for class
+self is like this keyword similar to java,It is always the first argument in the function definition
+# type print what datatype its is int/long/flot/custome etc
+#global keyword is for access global/instance variables
+__XXX__ is built-in class attribute hote hai
+#inhetance ke liye child class(parent) ke ander parent class ko pass krte hai, ynhra extend keyword use nhi krte hai
+#The load() function is parsed the JSON file
+#open() function to read the JSON file
